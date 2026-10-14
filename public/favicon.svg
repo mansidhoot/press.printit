@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <rect width="64" height="64" rx="16" fill="#090B11"/>
+  <!-- CMYK Cyan -->
+  <circle cx="24" cy="24" r="14" fill="#00E5FF" opacity="0.85"/>
+  <!-- CMYK Magenta -->
+  <circle cx="40" cy="24" r="14" fill="#FF1493" opacity="0.85" style="mix-blend-mode: multiply;"/>
+  <!-- CMYK Yellow -->
+  <circle cx="32" cy="38" r="14" fill="#FFD700" opacity="0.85" style="mix-blend-mode: multiply;"/>
+  <!-- Center P lettermark -->
+  <path d="M28 20H35C37.2091 20 39 21.7909 39 24C39 26.2091 37.2091 28 35 28H28V20ZM28 28V38H24V20H35C38.3137 20 41 22.6863 41 26C41 29.3137 38.3137 32 35 32H28V28Z" fill="#FFFFFF"/>
+</svg>
